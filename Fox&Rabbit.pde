@@ -41,7 +41,7 @@
    
    fill(200, 24, 233);
    rect(550, 30, 50, numFoxes * 2);
-   rect(630, 30, 50, numRabbits / 2.5);
+   rect(630, 30, 50, numRabbits / 3);
    text(numFoxes, 565, 450);
    text(numRabbits, 640, 450);
  }  
